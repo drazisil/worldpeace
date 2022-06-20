@@ -18,5 +18,6 @@
       "groupName": "dependencies (non-major)",
       "automerge": true
     }              
-  ]
+  ],
+  "ignoreDeps": ["net:miecraftforge:forge"]
 }
